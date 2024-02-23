@@ -1,0 +1,33 @@
+/* DeleteNotePage.css */
+
+.delete-confirm {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .delete-confirm h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .delete-confirm p {
+    margin-bottom: 20px;
+  }
+  
+  .delete-confirm button {
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .delete-confirm button:hover {
+    background-color: #c82333;
+  }
+  
